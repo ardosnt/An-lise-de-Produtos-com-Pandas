@@ -46,7 +46,7 @@ Projeto de análise exploratória de dados de vendas de uma loja de roupas e ace
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/ardosnt/An-lise-de-Produtos-com-Pandas.git
 
 # Instale as dependências
 pip install pandas jupyter
